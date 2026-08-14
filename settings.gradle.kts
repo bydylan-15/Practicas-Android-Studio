@@ -24,3 +24,14 @@ dependencyResolutionManagement {
 
 rootProject.name = "INICIO DEL PROYECTO FINAL INTEGRADOR"
 include(":app")
+include(":practica02")
+include(":practica02:practica02")
+include(":practica03")
+include(":practica04")
+include(":practica05")
+include(":practica06")
+include(":practica07")
+include(":practica08")
+include(":practica09")
+include(":practica10")
+include(":practica11")
